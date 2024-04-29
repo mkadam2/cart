@@ -1,4 +1,4 @@
-# How to run a ReactJS code
+# How to run a ReactJS code in detail
 
 To run a ReactJS code, you need to have Node.js and npm installed on your system. If you haven't installed them yet, you can download and install Node.js from the official website (<https://nodejs.org/en/download/>) and npm using the following command:
 ```
